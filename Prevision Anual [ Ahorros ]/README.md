@@ -21,10 +21,15 @@
 ## 🏁 Introducción
 Si no queres leer esto, podes pasar directamente a [Cómo se usa?](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#como-se-usa)
 > Esta plantilla nace de la necesidad de empezar a controlarme en mi economía personal, algo que debería haber hecho hace tiempo.
+> 
 > Había buscado algunas, viendo qué tenía Google Sheets, Excel, LibreOffice, Numbers... pero ninguna me convencía o no tenía lo que yo necesitaba y aprovechando que escuche un par de cursos que hizo mi novia, y que ella ya estaba haciendo esta planificación, decidí hacer mi planilla un poco más automatizada que las que encontraba, y con algunos toques propios.
+> 
 > De seguro esta no es la planilla perfecta ni definitiva, por lo que cualquier mejora siempre será bienvenida, pero es un punto de partida. Como espero que sea también para ayudarte a empezar a cuidar y controlar tu economía personal.
+> 
 > Como es la primera, aun no es multi moneda. Dependiendo dónde estés, tal vez tus ahorros más fuertes los hagas en otra moneda y no la de tu país, pero también puede ser muy complicado acceder a ella o poder prever si todos los meses podrás cumplir con la meta propuesta.
+> 
 > Tampoco tiene algún apartado para inversiones en acciones, bolsa, o criptos. Imaginate que no la pude hacer multi moneda, menos con algo que cambia a cada minuto 🤣. También en parte es porque es un punto de partida, y tal vez ni sepas cómo comprar Bitcoins, una acción de YPF o una de Apple.
+> 
 > Gracias [Mari (una contadora copada)](https://www.linkedin.com/in/maria-alfieri-a18a2a204/) por tu ayudita corrigiendo o corroborando que este todo como más o menos yo quería :)
 
 ## 📖 Cómo se usa ?
