@@ -4,7 +4,7 @@
 ---
 ## Indice
 - [🏁 Introducción](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#introducci-n)
-- [📖 Cómo se usa?](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#como-se-usa)
+- [📖 Cómo se usa?](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#c-mo-se-usa)
 	- [1. ⚙️ Cuentas (Configuraciones)](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#1-cuentas-configuraciones)
 	- [2. 💳 Transacciones](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#2-transacciones)
 	- [3. 📈 Inversiones (anualizado)](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#3-inversiones-anualizado)
@@ -14,7 +14,7 @@
 		- [(b) Config. Inflación](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#b)
 		- [(c) Config. Objetivos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#c)
 - [💾 Descargas](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#descargas)
-- [Créditos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#creditos)
+- [Créditos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#cr-ditos)
 
 ---
 
