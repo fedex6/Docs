@@ -31,6 +31,8 @@ Si no queres leer esto, podes pasar directamente a [Cómo se usa?](https://colle
 > Tampoco tiene algún apartado para inversiones en acciones, bolsa, o criptos. Imaginate que no la pude hacer multi moneda, menos con algo que cambia a cada minuto 🤣. También en parte es porque es un punto de partida, y tal vez ni sepas cómo comprar Bitcoins, una acción de YPF o una de Apple.
 > 
 > Gracias [Mari (una contadora copada)](https://www.linkedin.com/in/maria-alfieri-a18a2a204/) por tu ayudita corrigiendo o corroborando que este todo como más o menos yo quería :)
+>
+> Gracias [Vito ♥️](https://www.linkedin.com/in/victoria-alfieri-5a51b43a/) por la lectura y corrección de este texto, y por empujarme a usar mas una planilla para tener control de los gastos :)
 
 ## 📖 Cómo se usa ?
 
@@ -80,9 +82,9 @@ Para este caso, lo voy a poner dentro de la Categoria: 'Otros' [2]
 ![Transacciones: Ingreso](https://poio.com.ar/collectedNotes/plan_de_ahorro/transacciones_sueldos.png)
 
 ```php
-Para el caso de los "Ingresos", el valor tomado para 'Sueldo' (si es que decidimos llamar a una categoría así) no implica que el valor se replique para el cálculo de las Inversiones, ya que el "Ingreso Mínimo Mensual" (que se ve en la solapa "Estado / Resumen") puede estar dado por varias cuentas y no únicamente el 'Sueldo'  
-/
  Para el caso de los "Ingresos", el valor total no necesariamente debe ser el mismo que el que calculamos como "Ingreso Mínimo Mensual" en la solapa "Estado / Resumen" ya que el monto allí estipulado es el mínimo necesario y puede que terminemos ganando más de lo que supusimos.
+
+Esto es porque puede darse el caso en que tengamos un trabajo en relación de dependencia y uno freelance, estar en una transición y seria difícil calcular el ingreso mínimo para luego decidir en que ahorrar, por eso, ese valor se pone manualmente.
 ```
 
 #### 3. 📈 Inversiones (anualizado)
