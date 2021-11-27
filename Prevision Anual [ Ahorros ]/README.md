@@ -182,6 +182,8 @@ Para bajarlo, o crearse una copia en su  Google Sheets tiene que seguir estos pa
 
 ![Duplicar Google Sheet](https://poio.com.ar/collectedNotes/plan_de_ahorro/duplicar_gs.png)
 
+##### [- 📝 GitHub](https://github.com/fedex6/Docs/blob/main/Prevision%20Anual%20%5B%20Ahorros%20%5D/Prevision%20Anual%20%5B%202022%20%5D.xlsx?raw=true)
+
 ***
 ###### Créditos
 > ![Avatar](https://poio.com.ar/collectedNotes/avatar.png) Federico Garcia
