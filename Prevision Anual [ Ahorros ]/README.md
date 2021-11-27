@@ -187,6 +187,7 @@ Para bajarlo, o crearse una copia en su  Google Sheets tiene que seguir estos pa
 > ![Avatar](https://poio.com.ar/collectedNotes/avatar.png) Federico Garcia
 > 
 > *Si te pareció copado este artículo y solo si tenés ganas*
+> 
 > [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/fedex6)
 >
 > Hecho en 🇦🇷  tomando 🧉,  gracias a [Collected Notes](https://collectednotes.com)
