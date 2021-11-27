@@ -21,15 +21,10 @@
 ## 🏁 Introducción
 Si no queres leer esto, podes pasar directamente a [Cómo se usa?](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#como-se-usa)
 > Esta plantilla nace de la necesidad de empezar a controlarme en mi economía personal, algo que debería haber hecho hace tiempo.
-
 > Había buscado algunas, viendo qué tenía Google Sheets, Excel, LibreOffice, Numbers... pero ninguna me convencía o no tenía lo que yo necesitaba y aprovechando que escuche un par de cursos que hizo mi novia, y que ella ya estaba haciendo esta planificación, decidí hacer mi planilla un poco más automatizada que las que encontraba, y con algunos toques propios.
-
 > De seguro esta no es la planilla perfecta ni definitiva, por lo que cualquier mejora siempre será bienvenida, pero es un punto de partida. Como espero que sea también para ayudarte a empezar a cuidar y controlar tu economía personal.
-
 > Como es la primera, aun no es multi moneda. Dependiendo dónde estés, tal vez tus ahorros más fuertes los hagas en otra moneda y no la de tu país, pero también puede ser muy complicado acceder a ella o poder prever si todos los meses podrás cumplir con la meta propuesta.
-
 > Tampoco tiene algún apartado para inversiones en acciones, bolsa, o criptos. Imaginate que no la pude hacer multi moneda, menos con algo que cambia a cada minuto 🤣. También en parte es porque es un punto de partida, y tal vez ni sepas cómo comprar Bitcoins, una acción de YPF o una de Apple.
-
 > Gracias [Mari (una contadora copada)](https://www.linkedin.com/in/maria-alfieri-a18a2a204/) por tu ayudita corrigiendo o corroborando que este todo como más o menos yo quería :)
 
 ## 📖 Cómo se usa ?
@@ -53,7 +48,7 @@ Las columnas se completan con la siguiente data:
 
 - **Nombre**: "Categoría" para el Gasto o Ingreso de dinero
 - **Base**: Acá tenemos que poner lo estimado que vamos a gastar/percibir según corresponda.
-- **Afecta la inflacion**: Para nuestro caso (🇦🇷), la inflación afecta a casi todos los gastos que tenemos. Por lo que acá vamos a seleccionar si esta afectado o no. La cuenta que va a realizarse tomará el valor que estipulemos en la solapa de ==Estado / Resumen==.
+- **Afecta la inflacion**: Para nuestro caso (🇦🇷), la inflación afecta a casi todos los gastos que tenemos. Por lo que acá vamos a seleccionar si esta afectado o no. La cuenta que va a realizarse tomará el valor que estipulemos en la solapa de **Estado / Resumen**.
 
 ⠀⠀⠀⠀Nuevamente, en nuestro país, en estos momentos es muy difícil estipular que % de inflación mensual, y mucho menos anual, tendremos. 
 
@@ -115,9 +110,9 @@ Eso hay que hacerlo manualmente
 
 
 #### 4. 💸 Gastos (anualizado) 
-Esta solapa está bloqueada para su modificación, ya que únicamente muestra los _**Gastos**_ cargados en la solapa ==Transacciones==, pero puestos en el mes que corresponde y dándonos un panorama de cómo están nuestros gastos en relación a lo que habíamos planificado.
+Esta solapa está bloqueada para su modificación, ya que únicamente muestra los _**Gastos**_ cargados en la solapa **Transacciones**, pero puestos en el mes que corresponde y dándonos un panorama de cómo están nuestros gastos en relación a lo que habíamos planificado.
 
-El valor contra el que va a comparar cada mes, es el que está como promedio para cada categoría en la solapa de ==Cuentas (Configuraciones)==
+El valor contra el que va a comparar cada mes, es el que está como promedio para cada categoría en la solapa de **Cuentas (Configuraciones)**
 
 ![Transacciones: Ingreso](https://poio.com.ar/collectedNotes/plan_de_ahorro/gastos_anualizados.png)
 
@@ -145,7 +140,7 @@ En el ejemplo que pongo, hay aproximadamente $2500.- que no se utilizarían para
 - **Inflación mensual estimada**: Si vivís en un  país como Argentina, intentar predecir este número es casi una tarea imposible. Pero nosotros tendremos que jugarnosla para al menos tener claro cómo vamos a intentar manejar nuestra economía. Un buen número podría ser tomar el promedio de los últimos 6 meses. Este valor es el que define el siguiente.
 - **Inflación anualizada estimada**: Tomando el ejemplo, 3% mensual no significa que en el año la inflación es de 36% *(3% * 12)*. Lo que aplico es el cálculo de _Interés Compuesto_, que es aplicar 3% sucesivamente durante 12 meses, y es por eso que el resultado da **51.33%**.
 
-Este último valor es el que se utiliza para hacer el promedio en los _**Gastos**_ e _**Ingresos**_ de la solapa ==Cuentas (Configuraciones)== 
+Este último valor es el que se utiliza para hacer el promedio en los _**Gastos**_ e _**Ingresos**_ de la solapa **Cuentas (Configuraciones)**
 
 ```
 En el caso de vivir en un país donde la inflación no sea un gran problema, y puedas tener una mejor previsión de los valores, tal vez este recuadro no te afecte mucho si pronosticás un 2% anual y termina siendo 2.5%.
@@ -160,13 +155,13 @@ Que es muy distinto a pronosticar 50% y que sea 70% realmente.
 
 Lo importante en esta sección son las primeras columnas:
 
-- **Objetivos Anualizados**: Al igual que en la solapa de ==Cuentas (Configuraciones)==, en estas celdas deberemos poner los objetivos por los cuales queremos ahorrar/invertir. La planilla está hecha para tener solo 5 objetivos, creo que son suficientes ya que como se ve en el ejemplo, estaría queriendo ahorrar para cosas **muy** importantes y que requieren **mucho** capital. Nuevamente, pueden poner lo que ustedes quieran, se me ocurre ahora que podría ser "Regalos de Navidad" y planeen durante todo el año separar un poco de plata para que llegada la fecha, tengan ese extra.
+- **Objetivos Anualizados**: Al igual que en la solapa de **Cuentas (Configuraciones)**, en estas celdas deberemos poner los objetivos por los cuales queremos ahorrar/invertir. La planilla está hecha para tener solo 5 objetivos, creo que son suficientes ya que como se ve en el ejemplo, estaría queriendo ahorrar para cosas **muy** importantes y que requieren **mucho** capital. Nuevamente, pueden poner lo que ustedes quieran, se me ocurre ahora que podría ser "Regalos de Navidad" y planeen durante todo el año separar un poco de plata para que llegada la fecha, tengan ese extra.
 - **% (CMDI)**: Es el porcentaje del *Capital Mensual Dispuesto a Invertir* que se destinará a esta causa.
 - **$ (CDMI)**: El capital que representa el porcentaje anterior, no se debería modificar esta celda.
 - **% adicional mensual**: Es un porcentaje extra que se suma a la cantidad dispuesta a invertir. Esto puede ser que sea casi automático si por ejemplo se hacen Plazos Fijos de cada *objetivo*, ya que mensualmente obtendremos una ganancia por dicha inversión.
 - **Inicial**: Tal vez ya tengamos algunos ahorros pero este todo junto. Acá separamos ese ahorro y le damos una base a cada objetivo.
 
-Estos son los cambios básicos para esta sección, que impactarán en la solapa ==Inversiones==, las siguientes columnas son informativas y sirven para ver en resumen cómo van estas inversiones para nuestros objetivos planteados
+Estos son los cambios básicos para esta sección, que impactarán en la solapa **Inversiones**, las siguientes columnas son informativas y sirven para ver en resumen cómo van estas inversiones para nuestros objetivos planteados
 
 ### 💾 Descargas
 ##### [- ⬇️ Archivo  .xlsx  ( Microsoft Excel / LibreOffice )](https://poio.com.ar/collectedNotes/plan_de_ahorro/Prevision%20Anual%20%5B%202022%20%5D.xlsx)
@@ -185,15 +180,14 @@ Para bajarlo, o crearse una copia en su  Google Sheets tiene que seguir estos pa
 ***
 ###### Créditos
 > ![Avatar](https://poio.com.ar/collectedNotes/avatar.png) Federico Garcia
-
+> 
 > *Si te pareció copado este artículo y solo si tenés ganas*
-
 > [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/fedex6)
-
+>
 > Hecho en 🇦🇷  tomando 🧉,  gracias a [Collected Notes](https://collectednotes.com)
-
+>
 > Podés encontrarme en 
 [Twitter](https://twitter.com/fedex6) // [Telegram](https://t.me/fedex6) // [LinkedIn](https://www.linkedin.com/in/federicogr/)
-
-> ==26 de noviembre de 2021== 
+>
+> **26 de noviembre de 2021**
 
