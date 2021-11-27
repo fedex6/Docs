@@ -10,9 +10,9 @@
 	- [3. 📈 Inversiones (anualizado)](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#3-inversiones-anualizado)
 	- [4. 💸 Gastos (anualizado)](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#4-gastos-anualizado)
 	- [5. 📊 Estado / Resumen](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#5-estado-resumen)
-		- [(a) Config. Ahorro](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#a) 
-		- [(b) Config. Inflación](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#b)
-		- [(c) Config. Objetivos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#c)
+		- [(a) Config. Ahorro](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#a-config-ahorro) 
+		- [(b) Config. Inflación](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#b-config-inflaci-n)
+		- [(c) Config. Objetivos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#c-config-objetivos)
 - [💾 Descargas](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#descargas)
 - [Créditos](https://collectednotes.com/fedex6/plan-de-ahorro-y-control-de-la-economia-personal#cr-ditos)
 
